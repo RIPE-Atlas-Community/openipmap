@@ -1,0 +1,6 @@
+[submodule "django-openipmap"]
+	path = django-openipmap
+	url = https://github.com/emileaben/django-openipmap/
+[submodule "openipmap-provision"]
+	path = openipmap-provision
+	url = https://github.com/emileaben/openipmap-provision/
