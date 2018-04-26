@@ -1,7 +1,10 @@
-OpenIPMap tries to improve Internet Infrastructure geolocation by crowdsourcing
+**This is an outdated prototype. The current version is called RIPE IPmap and is available at https://ipmap.ripe.net/.**
 
-A running instance of OpenIPMap can be found here:
+RIPE IPmap ~~OpenIPMap~~ tries to improve Internet Infrastructure geolocation by crowdsourcing
+
+A running instance of ~~OpenIPMap~~ can be found here:
 https://marmot.ripe.net/openipmap/
+**Note: This running prototype will be shut down in the near future.**
 
 
 
